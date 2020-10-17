@@ -23,16 +23,16 @@ Please add links to previous work or relevant profile pages.
 
 ## Estimated hours: 
 e.g. 
-- x hours planning
-- x hours building
+- X hours planning
+- X hours building
 
 Total: 2x hours
 
 ## Price (USD): 
 e.g. 
-- y USD 
+- Y USD 
 
-Please note that you can opt to be paid in USDC or yUSD. 
+Please note that Yearn grants are paid in yUSD.  
 
 ## Ethereum Address: 
 - Please add an eligible Ethereum wallet address you'd like the funds sent to. 
