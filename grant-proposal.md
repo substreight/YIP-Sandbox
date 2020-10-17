@@ -4,7 +4,7 @@
 Please add a title for your proposal. Also, ensure the filename is short, descriptive, lower-case, and uses dashes (-) in place of spaces. 
 
 ## Type of grant: 
-Please select what type of grant you are requesting (Grant, Recurring Grant). 
+Please select what type of grant you are requesting (One-time Grant, Recurring Grant). 
 - [ ] One-time Grant
 - [ ] Recurring Grant
 
@@ -13,7 +13,7 @@ Brief summary of what you are proposing to do to contribute to the Yearn ecosyst
 
 ## Motivation: 
 The purpose of these grants is to enable people outside the core team to contribute to the project. 
-Please outline why your proposal represents a contribution, i.e. what difference it can make to Synthetix. 
+Please outline why your proposal represents a contribution, i.e. what difference it can make to Yearn. 
 
 ## Additional information: 
 Here you can add further relevant information for your proposal, including technical specs or functionality. 
