@@ -37,4 +37,5 @@ Please note that Yearn grants are paid in yUSD.
 ## Ethereum Address: 
 - Please add an eligible Ethereum wallet address you'd like the funds sent to. 
 
+
 Based on: https://github.com/Synthetixio/snx-grants-dao/blob/master/proposals/proposal-template.md
