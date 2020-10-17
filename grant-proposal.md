@@ -5,7 +5,7 @@ Please add a title for your proposal. Also, ensure the filename is short, descri
 
 ## Type of grant: 
 Please select what type of grant you are requesting (One-time Grant, Recurring Grant). 
-- [ ] One-time Grant
+- [X] One-time Grant
 - [ ] Recurring Grant
 
 ## Description: 
