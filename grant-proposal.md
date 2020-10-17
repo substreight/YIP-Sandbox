@@ -4,7 +4,7 @@
 Please add a title for your proposal. Also, ensure the filename is short, descriptive, lower-case, and uses dashes (-) in place of spaces. 
 
 ## Type of grant: 
-Please select what type of grant you are proposing (Grant, Recurring Grant, Gift). 
+Please select what type of grant you are requesting (Grant, Recurring Grant). 
 - [ ] One-time Grant
 - [ ] Recurring Grant
 
