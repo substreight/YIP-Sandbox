@@ -3,6 +3,11 @@
 ## Title of proposal: 
 Please add a title for your proposal. Also, ensure the filename is short, descriptive, lower-case, and uses dashes (-) in place of spaces. 
 
+## Type of grant: 
+Please select what type of grant you are proposing (Grant, Recurring Grant, Gift). 
+- [ ] One-time Grant
+- [ ] Recurring Grant
+
 ## Description: 
 Brief summary of what you are proposing to do to contribute to the Yearn ecosystem. 
 
