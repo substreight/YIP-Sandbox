@@ -1,3 +1,5 @@
 # YIP-Sandbox
 
-- Leveraging latest SNX SIPs as foundation for improved YIPs. 
+Sandbox for Yearn Improvement Proposals, templates, etc. 
+
+Mostly borrowed from Synthetix with <3
